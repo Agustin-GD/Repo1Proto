@@ -1,2 +1,4 @@
 Raza: Ogro
 Nombre: Yerk
+Vida: 8
+Items: Una cokita para cuando se le baja la presión
