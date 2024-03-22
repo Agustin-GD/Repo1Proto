@@ -1,4 +1,4 @@
 Raza: Ogro
-Nombre: Borru
+Nombre: Borru el destructor de planetas
 Vida: 8
 Items: Una cokita para cuando se le baja la presión
